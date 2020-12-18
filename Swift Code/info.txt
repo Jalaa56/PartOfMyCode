@@ -1,0 +1,1 @@
+Ces lignes de codes proviennent du cours CS193p du Professeur Paul Hegarty (Spring 2020) de Standford University. Je me base pour apprendre ce language sur ce cours et le site https://docs.swift.org/swift-book/

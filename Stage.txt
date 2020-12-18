@@ -1,0 +1,1 @@
+Étant donné que j'ai signé une charte de confidentialité avec GSK, je ne pourrais malheureusement pas vous montrer les scripts en language bash, python et R utilisés avec deux programmes en libre accès afin de construire des données NGS et les traiter.
